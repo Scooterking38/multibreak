@@ -1,0 +1,15 @@
+[project]
+name = "multibreak"
+version = "0.1.0"
+description = "A Python module to break out of multiple nested loops using break(n)."
+authors = [
+    { name = "mrwe3838", email = "mrwe3838@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+keywords = ["python", "loops", "break", "nested loops"]
+
+[tool.poetry]
+# Optional if using poetry
+packages = [{ include = "multibreak" }]
