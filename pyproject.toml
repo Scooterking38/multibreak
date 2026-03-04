@@ -1,6 +1,6 @@
 [project]
 name = "multibreak"
-version = "0.1.0"
+version = "0.0.1"
 description = "A Python module to break out of multiple nested loops using break(n)."
 authors = [
     { name = "mrwe3838", email = "mrwe3838@gmail.com" }
